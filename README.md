@@ -35,6 +35,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Project Preview
 Video
+https://github.com/JFritsch04/12-employee-tracker/blob/fb18eee567e5771358608337bdc1051b220937c2/walkthrough.webm
 
 
 ### Installation and Usage
